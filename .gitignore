@@ -114,5 +114,7 @@ venv.bak/
 # custom
 env_*
 stats/
+state/
 urls/
 parsed/
+.DS_Store
